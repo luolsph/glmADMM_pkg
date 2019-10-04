@@ -1,0 +1,10 @@
+Package: glmADMM
+Type: Package
+Title: Solving Equality constrained L1-Regularized General Linear Models via ADMM
+Version: 1.0
+Date: 2015-07-12
+Author: Hui Jiang, Lan Luo
+Maintainer: Lan Luo <luolsph@umich.edu>
+Description: Fitting L1-regularization path for linear regression, logistic regression and Poisson regression. A major characteristic is that users can have an equality constraint on the coefficients. The algorithm uses Alternating Direction Method of Multipliers.
+License: GPL-2
+
